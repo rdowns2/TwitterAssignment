@@ -1,4 +1,4 @@
-# Project 3 - *TwitterClient*
+# *TwitterClient*
 
 **TwitterClient** is a basic twitter app to read your tweets.
 
